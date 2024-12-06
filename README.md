@@ -20,7 +20,7 @@ Clone the repository:
 
 Install dependencies:
 
-npm install
+`npm install`
 
 Setup environment variables: Create a .env file in the root directory with the following values:
 
@@ -36,7 +36,8 @@ Run database migrations: Make sure your database is set up correctly.
 
 Start the server:
 
-npm start
+`node app.js`
+
 Your API will be accessible at http://localhost:5000
 
 ![Screenshot 2024-12-06 190116](https://github.com/user-attachments/assets/539ee9e9-1ec1-40f1-ade6-b891fcbe8939)

@@ -1,6 +1,3 @@
-
-Here’s a basic README template for your project with instructions on how to use the code and the available endpoints.
-
 # Rail Track API
 > Description
 This API allows you to manage train services, including creating, updating, and viewing services. It includes authentication and authorization features using JWT tokens and an API key for super-admin access.
